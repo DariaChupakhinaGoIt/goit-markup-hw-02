@@ -83,6 +83,7 @@ cursor: pointer;
 }
 
 .strategy-subtitle {
+    color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
@@ -167,7 +168,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
-.footer-logo span {
+.footer-logo-span {
     color: #F4F4FD;;
 }
 
